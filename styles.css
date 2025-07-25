@@ -1,0 +1,29 @@
+*
+{
+    background-color: #f4e1be;
+    box-sizing: border-box;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:3em;
+    text-align: center;
+
+}
+
+.recipe-title{
+    font-size: 2em;
+}
+.list-container{
+    width:50%;
+    line-height: 2em;
+    margin: auto;
+    font-size: 18px;
+    text-align: left;
+    display: block;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
